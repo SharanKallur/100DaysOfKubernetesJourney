@@ -44,6 +44,9 @@ YouTube videos
         - [Part 4](https://www.youtube.com/watch?v=DyEwc-WGohQ)
 - from TechWorld with Nana
     - [What is Helm in Kubernetes? Helm and Helm Charts explained | Kubernetes Tutorial 23](https://www.youtube.com/watch?v=-ykwb1d0DXU)
+- from Anais Urlichs
+    - [Full Tutorial: Deploying Helm Charts in Kubernetes with Terraform](https://www.youtube.com/watch?v=Qq1cfVw1Mx4)
+
 Blogs
 - Bitnami - [How to create your first helm chart](https://docs.bitnami.com/tutorials/create-your-first-helm-chart/)
 - pheonixNAP - [How To Create A Helm Chart](https://phoenixnap.com/kb/create-helm-chart)
