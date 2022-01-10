@@ -34,7 +34,7 @@ So instead of producing 100 days of consecutive every day updates. I'm instead g
 - [ ] ☸ 16 > [Exploring Tanzu Build Services and re-building my Pac-Man Demo Container](Journey/016/Readme.md)
 - [ ] ☸ 17 > [Something new using the same idea! Deploy Azure AKS clusters using vRA](Journey/017/Readme.md)
 - [ ] ☸ 18 > [Work on Project Pace - Local installation of Kubernetes and Deploy an app and protect it with Kasten](Journey/018/Readme.md)
-- [ ] ☸ 19 > [](Journey/019/Readme.md)
+- [ ] ☸ 19 > [Learning more about Helm | How to create a chart to install my demo application](Journey/019/Readme.md)
 - [ ] ☸ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
